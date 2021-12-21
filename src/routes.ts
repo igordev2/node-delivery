@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import { AuthenticateClientController } from './modules/accounts/authenticateUser/AuthenticateClientController';
 import { CreateClientController } from './modules/clients/useCases/createClient/CreateClientController';
-import { CreateDeliverymanController } from './modules/deliveryman/useCases/CreateDeliverymanController';
+import { CreateDeliverymanController } from './modules/deliveryman/useCases/createDeliveryman/CreateDeliverymanController';
 
 const routes = Router();
 
