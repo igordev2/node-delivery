@@ -8,6 +8,6 @@
 
 ```bash
 # development
-$ npm prisma generate
+$ npx prisma migrate dev
 $ npm run dev
 ```
