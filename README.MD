@@ -9,5 +9,5 @@
 ```bash
 # development
 $ npm prisma generate
-$ npm run start
+$ npm run dev
 ```
