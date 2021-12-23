@@ -12,4 +12,6 @@ $ npx prisma migrate dev
 $ npm run dev
 ```
 
+## Client API Rest -> Json 
+
 [Insomnia](https://github.com/igordev2/node-delivery/blob/main/assets/insomnia.json)
