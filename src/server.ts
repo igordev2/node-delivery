@@ -19,6 +19,6 @@ app.use((err: Error, request: Request, response: Response, next: NextFunction) =
         status: "error",
         message: 'Internal server error'
     });
-})
+});
 
 app.listen(3000, () => console.log(`Server is running 🚀`)); 
