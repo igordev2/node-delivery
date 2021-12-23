@@ -1,10 +1,4 @@
-![A cute kitten](/assets/delivery.png?style=centerme)
-
-img[src$="centerme"] {
-text-aling: center;
-width: 20px;
-height: 20px;
-}
+<img align="right" width="600" height="200" src="https://i.pinimg.com/originals/79/64/83/796483ae19e58f77dafca3e5d4f3e06e.png">
 
 # NodeJs and Prisma
 
