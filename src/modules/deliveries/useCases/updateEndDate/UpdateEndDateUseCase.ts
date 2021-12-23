@@ -15,6 +15,8 @@ export class UpdateEndDateUseCase {
             data: {
                 end_at: new Date(),
             }
-        })
+        });
+
+        return result;
     }
 }
