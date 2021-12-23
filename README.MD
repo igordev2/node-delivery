@@ -11,3 +11,5 @@
 $ npx prisma migrate dev
 $ npm run dev
 ```
+
+[Insomnia](https://github.com/igordev2/node-delivery/blob/main/assets/insomnia.json)
